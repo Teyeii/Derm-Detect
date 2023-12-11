@@ -1,6 +1,6 @@
 # streamlit_app.py
 import streamlit as st
-import opencv-python as cv2
+import cv2
 import numpy as np
 import pickle
 
