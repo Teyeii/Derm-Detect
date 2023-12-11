@@ -1,4 +1,4 @@
 streamlit==1.14.0
-opencv-python==4.5.3
+opencv-python==4.5.3.56
 numpy==1.21.2
 scikit-learn==0.24.2  # Ensure you have the scikit-learn version compatible with your Pickle model
